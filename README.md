@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an interactive planner 
-- 🌱 I’m currently learning Javascript CSS HTML
+- 🔭 I’m currently working on a budgeting app and a social media platform
+- 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on new projects
 - 💬 Ask me about ...
 - 📫 How to reach me: viannakhuynh@gmail.com
