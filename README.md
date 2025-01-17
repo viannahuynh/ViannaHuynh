@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a budgeting app and a social media platform
+- 🔭 I’m currently working on a budgeting app 
 - 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on new projects
 - 💬 Ask me about ...
